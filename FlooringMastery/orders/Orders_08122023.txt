@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,wolverine,TX,4.45,Wood,1500.00,5.15,4.75,7725.00,7125.00,660.82,15510.82

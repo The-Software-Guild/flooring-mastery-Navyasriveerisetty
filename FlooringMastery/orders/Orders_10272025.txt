@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Navya Sri,TX,4.45,Tile,2341.00,3.50,4.15,8193.50,9715.15,796.93,18705.58
+2,blah,TX,4.45,Wood,2345.00,5.15,4.75,12076.75,11138.75,1033.09,24248.59

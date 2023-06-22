@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+2,Selena Gomex,CA,25.00,Wood,300.00,5.15,4.75,1545.00,1425.00,742.50,3712.50
+4,Ariana Grande,KY,6.00,Wood,234.00,5.15,4.75,1205.10,1111.50,139.00,2455.60
+5,Taylor Swift,WA,9.25,Wood,101.00,5.15,4.75,520.15,479.75,92.49,1092.39

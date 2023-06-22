@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,navya,TX,4.45,Laminate,5000.00,1.75,2.10,8750.00,10500.00,856.62,20106.62
